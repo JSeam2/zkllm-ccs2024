@@ -10,7 +10,7 @@ Our open-sourcing process includes:
 - [x] The wheel of tensors over the `BLS12-381` elliptic curve.
 - [x] Implementation of `tlookup` and `zkAttn`, two major technical components of *zkLLM*.
 - [x] The proof of the entire inference process.
-- [ ] Work in progress: The seperation the computation and the interactive proof in the demo. 
+- [ ] Improve and merge with the [benchmarking code](https://github.com/jvhs0706/zkllm-benchmark) to make reproduction easier.
 
 ## Disclaimers
 
