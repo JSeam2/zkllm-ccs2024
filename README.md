@@ -4,7 +4,7 @@ Welcome to the official CUDA implementation of the paper *zkLLM: Zero Knowledge 
 
 *Note: This repository is currently under a major fix, to incorporate a better set of hyperparameters.* 
 
-**UPDATE (10 OC 2024):** Please see [this repository](https://github.com/jvhs0706/zkllm-benchmark) regarding the reproduction of overhead, as well as the (negligible) drop of accuracy.
+**UPDATE (10 OC 2024):** Please see [this repository](https://github.com/jvhs0706/zkllm-benchmark) (still under construction) regarding the reproduction of overhead, as well as the (negligible) drop of accuracy.
 
 ## Open-Sourcing Progress
 
